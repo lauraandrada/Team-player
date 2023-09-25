@@ -1,0 +1,288 @@
+[33mcommit 0f4a836ef735652e7c5ecff0eabbc0a1b31f3856[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m, [m[1;31morigin/development[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Fri Feb 24 15:28:28 2023 +0200
+
+    review
+
+[33mcommit da83d3273428cd9d386292cb2b0ad21fd1e161cf[m
+Merge: 65e0818 72328b2
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Wed Feb 22 09:37:23 2023 +0200
+
+    Merge branch 'development' of github.com:CodecoolGlobal/team-player-javascript-ionutb99 into development
+
+[33mcommit 65e081831c7b76214596cdcfce68741e3493974f[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Wed Feb 22 09:37:13 2023 +0200
+
+    Final
+
+[33mcommit 72328b21ea7f38b78755a4aee0f582a1c60f504e[m
+Merge: 9d8881b 054f877
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 15:25:22 2023 +0200
+
+    Merge branch 'development' of github.com:CodecoolGlobal/team-player-javascript-ionutb99 into development
+
+[33mcommit 9d8881b6f1725cfb665a1d7a2c6abcab51263ff4[m
+Merge: 33f4c9f aa7eb3c
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 15:25:10 2023 +0200
+
+    commit
+
+[33mcommit 054f877a89dd823562535d12df14e67f78f22aa3[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 15:22:36 2023 +0200
+
+    pull now
+
+[33mcommit 70abbe89682c2b94aa00e86b4fcb36e3eca2107f[m
+Merge: 76a4b8d aa7eb3c
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Tue Feb 21 15:18:44 2023 -0800
+
+    Merge branch 'development' of github.com:CodecoolGlobal/team-player-javascript-ionutb99 into development
+
+[33mcommit 76a4b8d0496a34c819fcd2dba26425149356ce5f[m
+Merge: bb5e371 934fb86
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Tue Feb 21 15:18:09 2023 -0800
+
+    Merge with github repository
+
+[33mcommit bb5e371401386b4ad954b18a346a1caff10505c1[m
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Tue Feb 21 15:14:15 2023 -0800
+
+    Some syntax modifications
+
+[33mcommit 33f4c9f32cb305c155d498535f7aeb0c08d69615[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 15:15:23 2023 +0200
+
+    aaaa
+
+[33mcommit aa7eb3cb3d2c02f25c6801b0e032820c2619c98f[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 15:14:48 2023 +0200
+
+    end edit
+
+[33mcommit 934fb867cd58acaf80b4cc08bc574ccfac6bd609[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 15:11:44 2023 +0200
+
+    edit
+
+[33mcommit c9536c15d909acbac2ca71a3ef563ce9abfe0cb7[m
+Merge: 854076b 35e62aa
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 15:06:24 2023 +0200
+
+    Merge branch 'development' of github.com:CodecoolGlobal/team-player-javascript-ionutb99 into development
+
+[33mcommit 854076b45df8f0e5d8d71d0c2110e1b406bcc313[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 15:06:09 2023 +0200
+
+    modified by me
+
+[33mcommit 35e62aae08026549f62bbf72237b7bf817550258[m
+Merge: 84f83df 86f434d
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 15:05:36 2023 +0200
+
+    modify
+
+[33mcommit 84f83df784df1e098834444930840c3a760b9af9[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 15:04:23 2023 +0200
+
+    modify
+
+[33mcommit d9a6257c19ca4f78fa8dec07167a422f5dd0ee31[m
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Tue Feb 21 14:35:09 2023 -0800
+
+    Add images
+
+[33mcommit 86f434d707c1a541425f62373ff15b4423f4ba55[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 14:56:42 2023 +0200
+
+    edit last
+
+[33mcommit b64830fafb816fc3fd3bf5cca5282c2c8c927dc3[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 14:49:33 2023 +0200
+
+    edit mine
+
+[33mcommit 61ce845a89276543395d5a018d4deb03239cfe6b[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 14:39:42 2023 +0200
+
+    edit last
+
+[33mcommit fcec4078dcfcfe8ccf0dd7f5d8afdad1eca2d0f5[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 14:25:56 2023 +0200
+
+    added colors
+
+[33mcommit 855e2f2790ea6b28dad8a81d808fee1e022f241c[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 14:04:13 2023 +0200
+
+    common genres
+
+[33mcommit 871fcbcc85c7a9de66b42cfd7da38a46890911f9[m
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Tue Feb 21 12:01:30 2023 -0800
+
+    youngest and oldest
+
+[33mcommit 57a4d9455ae689f376eb620421c2db4c40eb53f6[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 11:49:38 2023 +0200
+
+    changes
+
+[33mcommit 4737707cb37848379a785933b296e17bf10e1870[m
+Merge: 235ec15 f6feb48
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 11:43:16 2023 +0200
+
+    Merge branch 'development' of github.com:CodecoolGlobal/team-player-javascript-ionutb99 into development
+
+[33mcommit f6feb48ef506e3052fa1a10dfa0e4c914deb40e3[m
+Merge: 896d31e 3c48ce3
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Tue Feb 21 11:11:56 2023 -0800
+
+    Added reviews
+
+[33mcommit 896d31e6723e458df774d58ca03ee619dd52b79b[m
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Tue Feb 21 11:00:56 2023 -0800
+
+    Add reviews
+
+[33mcommit 235ec150a24bc0ba541bb685d262c9500880e5a6[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 11:42:59 2023 +0200
+
+    Average age and coding
+
+[33mcommit 3c48ce3baff102e70aa8626942fca4ccdf0231a9[m
+Merge: c37e491 bd03321
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 10:48:23 2023 +0200
+
+    Merge branch 'development' of github.com:CodecoolGlobal/team-player-javascript-ionutb99 into development
+
+[33mcommit c37e491517f718f0550f28a51d389165df7d0900[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 10:47:44 2023 +0200
+
+    pull again
+
+[33mcommit bd033219f047b527d3893b54271229a58ccd6b07[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 10:43:27 2023 +0200
+
+    Added the reviews
+
+[33mcommit 0c04c37713b2e257bb6dc799ab4d4b0d80a55dda[m
+Merge: c52fb88 0725d2a
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 10:16:21 2023 +0200
+
+    Merge branch 'development' of github.com:CodecoolGlobal/team-player-javascript-ionutb99 into development
+
+[33mcommit c52fb8879d2eacb532182ee102380bf8fbda1e33[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Tue Feb 21 10:13:38 2023 +0200
+
+    Songs updated
+
+[33mcommit 0725d2add375d2c8f700a8d3d7252c218e78dd2a[m
+Author: ionutb99 <ionutbuzila00@gmail.com>
+Date:   Tue Feb 21 10:07:34 2023 +0200
+
+    Modified Songs part
+
+[33mcommit 8dd4e949b583d462f81d711a6ddf90591a06a6a2[m
+Author: ionutb <ionutbuzila00@gmail.com>
+Date:   Mon Feb 20 16:33:48 2023 +0200
+
+    Add new keys and values and remove a few one
+
+[33mcommit 8881a5f4c41b61f10c9c7ebd16cc7779583e8492[m
+Author: ionutb <ionutbuzila00@gmail.com>
+Date:   Mon Feb 20 16:31:32 2023 +0200
+
+    Add new keys and values and remove a few one
+
+[33mcommit 2ac1a77b297ad20ceb7eeeff68a13867c3068ee9[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Mon Feb 20 15:15:47 2023 +0200
+
+    seniority, added movies and books
+
+[33mcommit b4126d3c5d6181d184f90d0ce6612ad0424ba0ba[m
+Merge: 3bfd012 4261bc0
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Mon Feb 20 15:11:01 2023 -0800
+
+    Seniority
+
+[33mcommit 3bfd012dcaf1b68241953e8e8bf844eff514592d[m
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Mon Feb 20 14:46:34 2023 -0800
+
+    Align items
+
+[33mcommit 4261bc0462ae36083dbbb1d2e6094e134b3b7572[m
+Author: ionutb <ionutbuzila00@gmail.com>
+Date:   Mon Feb 20 14:43:07 2023 +0200
+
+    You have to modify
+
+[33mcommit 30ef662cbe43592cbcc270b241d0f405c0621784[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Mon Feb 20 14:27:30 2023 +0200
+
+    Team Members
+
+[33mcommit 5bb939bd85ee7facc97201c9f7cfbfa0acf56e0e[m
+Merge: 4430601 a27efac
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Mon Feb 20 14:13:23 2023 +0200
+
+    Merge branch 'development' of github.com:CodecoolGlobal/team-player-javascript-ionutb99 into development
+
+[33mcommit a27efac5bc94d81ae7c6fe655616e5b2758a53be[m
+Author: cojocaru-dan <dan.cojocaru90233@gmail.com>
+Date:   Mon Feb 20 14:06:20 2023 -0800
+
+    ourTeam
+
+[33mcommit 44306018eb6afacf3dc61a2cf59f78da7c515404[m
+Author: Laura <lauraandradac15@gmail.com>
+Date:   Mon Feb 20 14:13:03 2023 +0200
+
+    dunno
+
+[33mcommit af199706c79b675ddfc630edcb443095cde84289[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: appuser <appuser@journey2-5c574f8bfb-km9b5>
+Date:   Mon Feb 20 11:55:09 2023 +0000
+
+    starter project
+
+[33mcommit 2e7c2f5e3bc8c0f396b43a0b41a4a66b5aa99bd6[m
+Author: appuser <appuser@journey2-5c574f8bfb-km9b5>
+Date:   Mon Feb 20 11:13:39 2023 +0000
+
+    starter project
